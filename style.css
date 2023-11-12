@@ -41,7 +41,7 @@ body {
   }
 }
 #header-img {
-  height: 5rem;
+  height: 10rem;
   width: auto;
 }
 @media (max-width: 800px) {
